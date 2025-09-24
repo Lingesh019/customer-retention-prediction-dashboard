@@ -60,7 +60,7 @@ Graduate from the **University of Birmingham** with a **Master's in Business Ana
 
 ### 📊 Featured Projects
 
-#### 🎯 [Customer Retention Prediction Dashboard](https://github.com/[YOUR-USERNAME]/customer-retention-prediction-dashboard)
+#### 🎯 [Customer Retention Prediction Dashboard](https://github.com/Lingesh019/customer-retention-prediction-dashboard)
 *Machine Learning • Power BI • Business Analytics*
 - Developed ML model with **89% accuracy** for churn prediction
 - Created interactive dashboards identifying **£2.3M revenue protection** opportunity
