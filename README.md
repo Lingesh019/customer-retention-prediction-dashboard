@@ -60,7 +60,7 @@ Graduate from the **University of Birmingham** with a **Master's in Business Ana
 
 ### 📊 Featured Projects
 
-#### 🎯 [Customer Retention Prediction Dashboard](https://github.com/README.md/customer-retention-prediction-dashboard)
+#### 🎯 [Customer Retention Prediction Dashboard](https://github.com/Lingesh019/customer-retention-prediction-dashboard)
 *Machine Learning • Power BI • Business Analytics*
 - Developed ML model with **89% accuracy** for churn prediction
 - Created interactive dashboards identifying **£2.3M revenue protection** opportunity
@@ -76,7 +76,7 @@ Graduate from the **University of Birmingham** with a **Master's in Business Ana
 
 ### 📈 GitHub Stats
 
-![Lingesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical)
+![Lingesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lingesh019&show_icons=true&theme=radical)
 
 ---
 
